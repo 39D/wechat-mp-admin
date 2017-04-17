@@ -1,0 +1,20 @@
+{
+  "name": "wechat-mp-admin",
+  "version": "1.0.0",
+  "description": "A Third-Party Administration Platform for Wechat MP. 某第三方微信公众号管理平台。",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "git@github.com:39D/wechat-mp-admin.git",
+  "author": "XWang1024 <xwang1024@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "helmet": "^3.5.0",
+    "isomorphic-fetch": "^2.2.1",
+    "morgan": "^1.8.1"
+  }
+}
